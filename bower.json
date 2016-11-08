@@ -1,26 +1,22 @@
 {
-  "name": "polymer-elements",
-  "version": "1.0.1",
-  "description": "A meta package for Polymer elements.",
+  "name": "geoloeg-elements",
+  "version": "1.0.0",
+  "description": "A meta package for GeOlOeG custom Polymer Elements.",
   "keywords": [
     "web-components",
     "polymer"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wincinderith/polymer-elements.git"
+    "url": "git://github.com/geoloeg/geoloeg-elements.git"
   },
   "dependencies": {
-    "iron-cookie": "wincinderith/iron-cookie#^1.0.0",
-    "paper-carousel": "wincinderith/paper-carousel#^1.0.0",
-    "paper-divider": "wincinderith/paper-divider#^1.0.0",
-    "paper-email": "wincinderith/paper-email#^1.0.0",
-    "paper-image": "wincinderith/paper-image#^1.0.0",
-    "paper-phone": "wincinderith/paper-phone#^1.0.0"
+    "dom-repeat-n": "dom-repeat-n#^1.0.0"
   },
-  "homepage": "https://github.com/wincinderith/polymer-elements",
+  "homepage": "https://github.com/geoloeg/geoloeg-elements",
   "authors": [
-    "Kevin Boxhoorn <kevinboxhoorn@yahoo.com>"
+    "Kevin Boxhoorn <kevinboxhoorn@yahoo.com>",
+    "Pascal Gula <pascal.gula@gmail.com>"
   ],
   "license": "GPL-3.0",
   "ignore": [
