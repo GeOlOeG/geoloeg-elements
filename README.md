@@ -1,9 +1,12 @@
 # geoloeg-elements
-A meta package for GeOlOeG custom Polymer Elements.
+A meta package for GeoloeG custom Polymer Elements.
 
-## General Elements
+## General Purpose Elements
 * [`dom-repeat-n`](https://github.com/geoloeg/dom-repeat-n)
 
 ## Iron Elements
 
 ## Paper Elements
+
+## GeoloeG Elements
+
