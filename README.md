@@ -5,6 +5,7 @@ A meta package for GeoloeG custom Polymer Elements.
 * [`dom-repeat-n`](https://github.com/geoloeg/dom-repeat-n)
 
 ## Iron Elements
+* [`iron-swipeable-pages`](https://github.com/geoloeg/iron-swipeable-pages)
 
 ## Paper Elements
 
