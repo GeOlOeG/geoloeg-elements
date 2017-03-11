@@ -16,5 +16,6 @@ A meta package for GeoloeG custom Polymer Elements.
 * [`modernizr-element`](https://github.com/geoloeg/modernizr-element)
 * [`numbro-element`](https://github.com/geoloeg/numbro-element)
 * [`spinkit-element`](https://github.com/geoloeg/spinkit-element)
+* [`identicon-element`](https://github.com/geoloeg/identicon-element)
 
 ## GeoloeG Elements
