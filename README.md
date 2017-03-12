@@ -13,6 +13,8 @@ A meta package for GeoloeG custom Polymer Elements.
 ## Gold Elements
 * [`gold-password-input`](https://github.com/geoloeg/gold-password-input)
 
+## Firebase Elements
+
 ## Wrapper Elements
 * [`modernizr-element`](https://github.com/geoloeg/modernizr-element)
 * [`numbro-element`](https://github.com/geoloeg/numbro-element)
