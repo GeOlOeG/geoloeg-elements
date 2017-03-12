@@ -6,6 +6,7 @@ A meta package for GeoloeG custom Polymer Elements.
 
 ## Iron Elements
 * [`iron-swipeable-pages`](https://github.com/geoloeg/iron-swipeable-pages)
+* [`iron-pullable-container`](https://github.com/geoloeg/iron-pullable-container)
 
 ## Paper Elements
 
