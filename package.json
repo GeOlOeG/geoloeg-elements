@@ -1,0 +1,22 @@
+{
+  "name": "geoloeg-elements",
+  "version": "1.0.0",
+  "description": "A meta collection package for GeoloeG custom Polymer Elements.",
+  "author": "Pascal Gula aka MeTaNoV <pascal.gula@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "latest"
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "GeoloeG",
+    "elements",
+    "web",
+    "components",
+    "webcomponents",
+    "web-components",
+    "polymer",
+    "element-collection"
+  ]
+}

@@ -1,26 +1,37 @@
 {
   "name": "geoloeg-elements",
   "version": "1.0.0",
-  "description": "A meta package for GeOlOeG custom Polymer Elements.",
-  "keywords": [
-    "web-components",
-    "polymer"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/geoloeg/geoloeg-elements.git"
-  },
-  "dependencies": {
-    "dom-repeat-n": "dom-repeat-n#^1.0.0"
-  },
-  "homepage": "https://github.com/geoloeg/geoloeg-elements",
   "authors": [
-    "Kevin Boxhoorn <kevinboxhoorn@yahoo.com>",
     "Pascal Gula <pascal.gula@gmail.com>"
   ],
-  "license": "GPL-3.0",
+  "description": "A meta collection package for GeoloeG custom Polymer Elements.",
+  "license": "MIT",
+  "keywords": [
+    "GeoloeG",
+    "elements",
+    "web",
+    "components",
+    "webcomponents",
+    "web-components",
+    "polymer",
+    "element-collection"
+  ],
+  "main": "geoloeg-elements.html",
   "ignore": [
     "**/.*",
-    "bower_components"
-  ]
+    "**/node_modules",
+    "**/bower_components",
+    "**/test",
+    "**/tests"
+  ],
+  "dependencies": {
+    "dom-repeat-n": "GeoloeG/dom-repeat-n#^1.0.0",
+    "iron-swipeable-pages": "GeoloeG/iron-swipeable-pages#^1.2.0",
+    "iron-pullable-container": "GeoloeG/iron-pullable-container#^1.0.0",
+    "gold-password-input": "GeoloeG/gold-password-input#^1.1.0",
+    "identicon-element": "GeoloeG/identicon-element#^1.0.0",
+    "modernizr-element": "GeoloeG/modernizr-element#^1.0.0",
+    "numbro-element": "GeoloeG/numbro-element#^1.0.0",
+    "spinkit-element": "GeoloeG/spinkit-element#^1.0.0"
+  }
 }
